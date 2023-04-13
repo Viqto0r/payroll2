@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/payroll2/static/css/main.2a305fa1.css",
+    "main.js": "/payroll2/static/js/main.cbf67224.js",
+    "index.html": "/payroll2/index.html",
+    "main.2a305fa1.css.map": "/payroll2/static/css/main.2a305fa1.css.map",
+    "main.cbf67224.js.map": "/payroll2/static/js/main.cbf67224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a305fa1.css",
+    "static/js/main.cbf67224.js"
+  ]
+}
